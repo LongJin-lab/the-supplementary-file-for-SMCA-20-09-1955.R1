@@ -1,0 +1,3 @@
+mainfile is the main program, and uses the proposed neural dynamics (12) in the manuscript to compute the orthogonal weight vector of PCA (32) in the presence of disturbance compared with Newton method and normative eigenvector method.
+
+Provided by Lin Wei with School of Information Science and Engineering, Lanzhou University, Lanzhou 730000, China (If you have any question, please contact me at weil20_AT_lzu.edu.cn).
